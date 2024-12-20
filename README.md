@@ -23,29 +23,6 @@ This project aims to classify news articles as real or fake using machine learni
 - Implementation of machine learning models for classification.
 - Evaluation of model performance using metrics like accuracy, precision, and recall.
 
-## How to Run the Project
-1. Clone the repository to your local machine:
-   ```bash
-   git clone <repository-url>
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd fake-news-prediction
-   ```
-
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Open the Jupyter Notebook:
-   ```bash
-   jupyter notebook "Copy of Project 5. Fake News Prediction.ipynb"
-   ```
-
-5. Run all cells in the notebook to execute the project.
-
 ## Results
 - The model effectively distinguishes between real and fake news articles.
 - Performance metrics are detailed in the notebook.
@@ -53,12 +30,6 @@ This project aims to classify news articles as real or fake using machine learni
 ## Future Improvements
 - Explore more advanced models like transformers for text classification.
 - Incorporate additional features from the dataset for better predictions.
-
-## Contributing
-Contributions are welcome! If you would like to contribute, please fork the repository and submit a pull request.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 - The dataset used in this project was sourced from publicly available repositories. Special thanks to the contributors who made it accessible.
