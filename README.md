@@ -52,12 +52,3 @@ You can access the dataset from the following link:
 
 ---
 
-## 🙏 Acknowledgments
-
-- The dataset used in this project was sourced from publicly available repositories.
-- Special thanks to the contributors who made the dataset accessible to the community.
-- All code and results are freely available for educational purposes and further research.
-
----
-
-Feel free to explore the project, and contribute by submitting issues or pull requests. 🌟
