@@ -34,11 +34,7 @@ Cleaning and transforming the data to ensure it is ready for model training, whi
 - 🔍 **Exploratory Data Analysis (EDA)**: Conducting an initial investigation into the dataset to discover patterns and correlations.
 - 🧹 **Data Preprocessing**: Cleaning data by handling missing values, performing text tokenization, and vectorizing the text features.
 - 🤖 **Machine Learning Models**: Implementation of classification algorithms like Logistic Regression, Naive Bayes, and others.
-- 📊 **Model Evaluation**: Evaluating the model's performance using common metrics:
-  - Accuracy
-  - Precision
-  - Recall
-  - F1 Score
+- 📊 **Model Evaluation**: Evaluating the model's performance using accuracy score
 
 ---
 
