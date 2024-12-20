@@ -27,9 +27,5 @@ This project aims to classify news articles as real or fake using machine learni
 - The model effectively distinguishes between real and fake news articles.
 - Performance metrics are detailed in the notebook.
 
-## Future Improvements
-- Explore more advanced models like transformers for text classification.
-- Incorporate additional features from the dataset for better predictions.
-
 ## Acknowledgments
 - The dataset used in this project was sourced from publicly available repositories. Special thanks to the contributors who made it accessible.
